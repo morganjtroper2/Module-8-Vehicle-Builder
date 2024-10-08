@@ -36,6 +36,10 @@ These actions are documented in the console log. You can return to the vehicle s
 
 ![Application screenshot 6](https://github.com/morganjtroper2/module-8/blob/main/vbss6.png)
 
+## Credits and License
 
+By Morgan Troper. Includes code obtained using chatGPT, who was especially helpful at troubleshooting .ts errors. 
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
