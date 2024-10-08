@@ -10,6 +10,8 @@ Install requisite dev tools. When using .ts source files, specify "rootDir" and 
 
 ## Usage
 
+Walkthrough video: https://drive.google.com/file/d/1m5lSp1Rm795s3sx_RCmW7zt40SEiuycH/view?usp=sharing
+
 When you start the app, you will see this prompt, giving you the option to create a new vehicle or select from a list of existing vehicles:
 
 ![Application screenshot 1](https://github.com/morganjtroper2/module-8/blob/main/vbss1.png)
